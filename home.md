@@ -17,17 +17,21 @@ Template de cours pour créer des cours avec Esc@Pad
 7. renseignez le champs "url du dépôt", modifiez au besoin la branche par défaut. Validez.
 8. Vous pouvez à présent générer un site vitrine de votre cours en cliquant sur "Build site". Les archives d'export (IMS, etc) sont disponibles à l'intérieur de ce site.
 9. Le lien "Build site" peut être utilisé comme webhook pour les plateformes Git le supportant (framagit, github).
+
+
 ## test 13 decembre
 ### Les listes
 Liste
-- élément1
-- élément2
-- élément3
+- élément1 
+- élément2 
+- élément3 
+
 ### Les trucs importants
 
 Un petit bout de texte **important**
 Librarie Pandoc pour faire du doc vers markdown
 Et un texte un peu _moins important_
+
 #### Des petits détails
 
 
